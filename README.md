@@ -20,3 +20,7 @@ GududaoStudio Simple Open source License
 
 4.This Agreement contains all the requirements specified in the open source code involved in the source code, but if there is a conflict with this Agreement, this Agreement shall prevail.
 4.本协议包含源代码中涉及到的所有开源代码中所规定的要求，但是与本协议冲突的，以本协议为准
+
+
+5.Modifiers may not distribute compiled forks without showing the source code, and the source code must be the same as the one used to compile the distributed program.
+5.修改者不得分发编译完成的分支程序而不展示源代码，且源代码应与分发程序编译时所使用的一致
